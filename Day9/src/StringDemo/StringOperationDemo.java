@@ -1,6 +1,6 @@
 package StringDemo;
 
-public class StringOperationsDemo {
+public class StringOperationDemo {
 
 	public static void main(String[] args) {
 		

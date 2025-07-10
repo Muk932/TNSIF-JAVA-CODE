@@ -1,4 +1,4 @@
-package com.tnsif.dayseven.overriding;
+package tnsif.com.Day7.overriding;
 
 public class OverRidingDemo {
 

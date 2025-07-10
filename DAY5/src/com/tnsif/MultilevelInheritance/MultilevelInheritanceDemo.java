@@ -2,7 +2,7 @@ package com.tnsif.MultilevelInheritance;
 
 public class MultilevelInheritanceDemo {
 
-	public static void main(String[] args) {
+	public static void  (String[] args) {
 		// TODO Auto-generated method stub
 
 		city c=new city();

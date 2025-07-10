@@ -1,4 +1,4 @@
-package com.tnsif.daysix.staticmethod;
+package staticMethod;
 
 public class Employee {
 //Declare instance varibles.

@@ -20,7 +20,7 @@ public class city extends state  {
 	public String toString() {
 		return "City [cityName=" + cityName + ", area=" + area + ", getStateName()=" + getStateName()
 				+ ", getLangyage()=" + getLangyage() + ", getCountryname()=" + getCountryname() + ", getCapital()="
-				+ getCapital() + "]";
+				+ getacpital() + "]";
 	}
 	
 	

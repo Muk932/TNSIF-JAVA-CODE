@@ -44,7 +44,7 @@ public static void main(String[] args) {
 		System.out.println(person);
 		
 		System.out.println("After creating tax object ");
-		TaxCalculation calc=new TaxCalculation();
+		Taxcalculation calc=new Taxcalculation();
 		calc.calculateTax(person);
 		System.out.println("After Calculation of tax :");
 		

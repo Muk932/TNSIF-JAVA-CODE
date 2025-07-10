@@ -1,6 +1,6 @@
 package StringDemo;
 
-public class WrapperClassDemo {
+public class WrapperclassDemo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

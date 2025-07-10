@@ -1,6 +1,6 @@
-package com.tnsif.daysix.staticmethod;
+package staticMethod;
 
-public class MyClass {
+public class Myclass {
 
 	private int section;   //non static varible or instance varible
 	
