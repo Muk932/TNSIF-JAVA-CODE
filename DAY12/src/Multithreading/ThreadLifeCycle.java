@@ -26,4 +26,14 @@ public class ThreadLifeCycle {
 		}
 
 	}
+
+	public String isAlive() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public void start() {
+		// TODO Auto-generated method stub
+		
+	}
 }
